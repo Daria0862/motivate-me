@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import EditTask from '../modals/editTask'
+import EditTask from './modals/editTask'
 
 const Card = ({ taskObj, index, deleteTask, updateListArray }) => {
     const [modal, setModal] = useState(false);
