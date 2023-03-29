@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const quoteOfTheDay = () => {
+const QuoteOfTheDay = () => {
   const [quote, setQuote] = useState('');
 
   useEffect(() => {
@@ -19,4 +19,4 @@ const quoteOfTheDay = () => {
   );
 };
 
-export default quoteOfTheDay;
+export default QuoteOfTheDay;
