@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 // import { Button } from './button.style';
 import styled from 'styled-components';
-import CreateTask from '../modals/createTask'
+import CreateTask from './modals/createTask'
 import Card from './card';
 import QuoteOfTheDay from './quoteOfTheDay';
 import { Container } from 'reactstrap';
