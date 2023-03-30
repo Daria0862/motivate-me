@@ -10,3 +10,4 @@ Copy this url("https://peppy-ganache-8ea561.netlify.app/"), paste on the browser
 
 Here is the screenshot of what the form look like:
 src\components\Icons\images\SC.jpg
+![Screenshot](/src/components/Icons/images/SC.jpg )
