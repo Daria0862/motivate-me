@@ -9,5 +9,4 @@ Usage
 Copy this url("https://peppy-ganache-8ea561.netlify.app/"), paste on the browser, click on the "Create Task" then type in your task. Then click the "Create" button to save the task. The edit and delete icons can be used to edit and delete the tasks.
 
 Here is the screenshot of what the form look like:
-src\components\Icons\images\SC.jpg
 ![Screenshot](/src/components/Icons/images/SC.jpg )
